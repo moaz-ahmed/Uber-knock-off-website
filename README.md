@@ -1,4 +1,4 @@
 # Goal-Diggers
 Uber
-Open Hompage.html
+Open index.html
 Enjoy!
